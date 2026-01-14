@@ -1,0 +1,2474 @@
+{
+  "districts": [
+    {
+      "name": "Srikakulam",
+      "mandals": [
+        {
+          "name": "Srikakulam",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Black gram",
+            "Green gram"
+          ]
+        },
+        {
+          "name": "Amadalavalasa",
+          "soil": "Red Sandy",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Gara",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Maize",
+            "Sosam"
+          ]
+        },
+        {
+          "name": "Etcherla",
+          "soil": "Sandy",
+          "crops": [
+            "Groundnut",
+            "Paddy",
+            "Cashew"
+          ]
+        },
+        {
+          "name": "Narasannapeta",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Black gram",
+            "Green gram"
+          ]
+        },
+        {
+          "name": "Ranastalam",
+          "soil": "Red",
+          "crops": [
+            "Mesta",
+            "Paddy",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Palakonda",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Sugar Cane",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Tekkali",
+          "soil": "Sandy Loam",
+          "crops": [
+            "Paddy",
+            "Coconut",
+            "Cashew"
+          ]
+        },
+        {
+          "name": "Ichchapuram",
+          "soil": "Sandy",
+          "crops": [
+            "Coconut",
+            "Cashew",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Pathapatnam",
+          "soil": "Red",
+          "crops": [
+            "Paddy",
+            "Pulses",
+            "Mesta"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parvathipuram Manyam",
+      "mandals": [
+        {
+          "name": "Parvathipuram",
+          "soil": "Red Sandy",
+          "crops": [
+            "Paddy",
+            "Maize",
+            "Cotton"
+          ]
+        },
+        {
+          "name": "Salur",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Palakonda",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Pulses",
+            "Oilseeds"
+          ]
+        },
+        {
+          "name": "Kurupam",
+          "soil": "Red",
+          "crops": [
+            "Cashew",
+            "Mango",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Gummalaxmipuram",
+          "soil": "Forest Soil",
+          "crops": [
+            "Turmeric",
+            "Ginger",
+            "Coffee"
+          ]
+        },
+        {
+          "name": "Jiyyammavalasa",
+          "soil": "Sandy Loam",
+          "crops": [
+            "Paddy",
+            "Banana",
+            "Sugarcane"
+          ]
+        },
+        {
+          "name": "Makkuva",
+          "soil": "Red",
+          "crops": [
+            "Maize",
+            "Paddy",
+            "Cotton"
+          ]
+        },
+        {
+          "name": "Seethanagaram",
+          "soil": "Loam",
+          "crops": [
+            "Sugarcane",
+            "Paddy",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Balijipeta",
+          "soil": "Red Sandy",
+          "crops": [
+            "Mango",
+            "Cashew",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Komarada",
+          "soil": "Sandy",
+          "crops": [
+            "Paddy",
+            "Maize",
+            "Vegetables"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vizianagaram",
+      "mandals": [
+        {
+          "name": "Vizianagaram",
+          "soil": "Red",
+          "crops": [
+            "Paddy",
+            "Groundnut",
+            "Mesta"
+          ]
+        },
+        {
+          "name": "Gantyada",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Pusapatirega",
+          "soil": "Sandy",
+          "crops": [
+            "Coconut",
+            "Cashew",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Denkada",
+          "soil": "Sandy Loam",
+          "crops": [
+            "Paddy",
+            "Groundnut",
+            "Coconut"
+          ]
+        },
+        {
+          "name": "Bhagyalakshmipuram",
+          "soil": "Red Sandy",
+          "crops": [
+            "Maize",
+            "Paddy",
+            "Cotton"
+          ]
+        },
+        {
+          "name": "Nellimarla",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Cheepurupalli",
+          "soil": "Red",
+          "crops": [
+            "Paddy",
+            "Groundnut",
+            "Mesta"
+          ]
+        },
+        {
+          "name": "Bhogapuram",
+          "soil": "Sandy",
+          "crops": [
+            "Coconut",
+            "Paddy",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "S.Kota",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Jami",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Banana",
+            "Vegetables"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Visakhapatnam",
+      "mandals": [
+        {
+          "name": "Visakhapatnam Rural",
+          "soil": "Red Sandy",
+          "crops": [
+            "Paddy",
+            "Vegetables",
+            "Flowers"
+          ]
+        },
+        {
+          "name": "Bheemunipatnam",
+          "soil": "Sandy",
+          "crops": [
+            "Cashew",
+            "Coconut",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Anandapuram",
+          "soil": "Red",
+          "crops": [
+            "Paddy",
+            "Maize",
+            "Flower Crops"
+          ]
+        },
+        {
+          "name": "Padmanabham",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Pendurthi",
+          "soil": "Red Sandy",
+          "crops": [
+            "Vegetables",
+            "Paddy",
+            "Mango"
+          ]
+        },
+        {
+          "name": "Gajuwaka",
+          "soil": "Red",
+          "crops": [
+            "Vegetables",
+            "Flowers",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Pedagantyada",
+          "soil": "Sandy",
+          "crops": [
+            "Cashew",
+            "Vegetables",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Maharani Peta",
+          "soil": "Sandy Loam",
+          "crops": [
+            "Vegetables",
+            "Fruits",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Seethammadhara",
+          "soil": "Red",
+          "crops": [
+            "Vegetables",
+            "Flowers",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Gopalapatnam",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Vegetables",
+            "Maize"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alluri Sitharama Raju",
+      "mandals": [
+        {
+          "name": "Paderu",
+          "soil": "Forest Soil",
+          "crops": [
+            "Coffee",
+            "Turmeric",
+            "Pepper"
+          ]
+        },
+        {
+          "name": "Araku Valley",
+          "soil": "Red Loam",
+          "crops": [
+            "Coffee",
+            "Paddy",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Chintapalle",
+          "soil": "Forest Soil",
+          "crops": [
+            "Coffee",
+            "Rajma",
+            "Pepper"
+          ]
+        },
+        {
+          "name": "G.Madugula",
+          "soil": "Red Sandy",
+          "crops": [
+            "Paddy",
+            "Millets",
+            "Turmeric"
+          ]
+        },
+        {
+          "name": "Pedabayalu",
+          "soil": "Forest Soil",
+          "crops": [
+            "Coffee",
+            "Pepper",
+            "Ginger"
+          ]
+        },
+        {
+          "name": "Munchingiputtu",
+          "soil": "Red",
+          "crops": [
+            "Millets",
+            "Paddy",
+            "Turmeric"
+          ]
+        },
+        {
+          "name": "Hukumpeta",
+          "soil": "Red Loam",
+          "crops": [
+            "Coffee",
+            "Paddy",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Dumbriguda",
+          "soil": "Red Sandy",
+          "crops": [
+            "Paddy",
+            "Millets",
+            "Niger"
+          ]
+        },
+        {
+          "name": "Ananthagiri",
+          "soil": "Red",
+          "crops": [
+            "Coffee",
+            "Paddy",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Rampachodavaram",
+          "soil": "Forest Soil",
+          "crops": [
+            "Cashew",
+            "Mango",
+            "Paddy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anakapalle",
+      "mandals": [
+        {
+          "name": "Anakapalle",
+          "soil": "Black",
+          "crops": [
+            "Sugarcane",
+            "Paddy",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Chodavaram",
+          "soil": "Loam",
+          "crops": [
+            "Sugarcane",
+            "Paddy",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Madugula",
+          "soil": "Red",
+          "crops": [
+            "Sugarcane",
+            "Paddy",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Narsipatnam",
+          "soil": "Red Sandy",
+          "crops": [
+            "Cashew",
+            "Palm Oil",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Yelamanchili",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Coconut",
+            "Cashew"
+          ]
+        },
+        {
+          "name": "Rambilli",
+          "soil": "Sandy",
+          "crops": [
+            "Cashew",
+            "Coconut",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Makavarapalem",
+          "soil": "Red",
+          "crops": [
+            "Sugarcane",
+            "Paddy",
+            "Cashew"
+          ]
+        },
+        {
+          "name": "Kasimkota",
+          "soil": "Black",
+          "crops": [
+            "Sugarcane",
+            "Paddy",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Munagapaka",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Paravada",
+          "soil": "Red Sandy",
+          "crops": [
+            "Cashew",
+            "Mango",
+            "Paddy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kakinada",
+      "mandals": [
+        {
+          "name": "Kakinada Rural",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Pulses",
+            "Coconut"
+          ]
+        },
+        {
+          "name": "Samalkota",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Pithapuram",
+          "soil": "Red Sandy",
+          "crops": [
+            "Cotton",
+            "Paddy",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Peddapuram",
+          "soil": "Red",
+          "crops": [
+            "Paddy",
+            "Tapioca",
+            "Sugarcane"
+          ]
+        },
+        {
+          "name": "Tuni",
+          "soil": "Sandy Loam",
+          "crops": [
+            "Cashew",
+            "Mango",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Prathipadu",
+          "soil": "Red",
+          "crops": [
+            "Cotton",
+            "Paddy",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Jaggampeta",
+          "soil": "Red Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Oil Palm"
+          ]
+        },
+        {
+          "name": "Karapa",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Coconut",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Thondangi",
+          "soil": "Sandy",
+          "crops": [
+            "Cashew",
+            "Paddy",
+            "Coconut"
+          ]
+        },
+        {
+          "name": "Sankhavaram",
+          "soil": "Red",
+          "crops": [
+            "Cashew",
+            "Mango",
+            "Paddy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "East Godavari",
+      "mandals": [
+        {
+          "name": "Rajahmundry Rural",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Kadiam",
+          "soil": "Loam",
+          "crops": [
+            "Flowers",
+            "Nurseries",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Rajanagaram",
+          "soil": "Red",
+          "crops": [
+            "Paddy",
+            "Cashew",
+            "Mango"
+          ]
+        },
+        {
+          "name": "Korukonda",
+          "soil": "Red Sandy",
+          "crops": [
+            "Cashew",
+            "Paddy",
+            "Tapioca"
+          ]
+        },
+        {
+          "name": "Seethanagaram",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Banana",
+            "Sugarcane"
+          ]
+        },
+        {
+          "name": "Gokavaram",
+          "soil": "Red",
+          "crops": [
+            "Cashew",
+            "Paddy",
+            "Oil Palm"
+          ]
+        },
+        {
+          "name": "Nidadavole",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Kovvur",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Banana",
+            "Sugarcane"
+          ]
+        },
+        {
+          "name": "Tallapudi",
+          "soil": "Red Loam",
+          "crops": [
+            "Oil Palm",
+            "Paddy",
+            "Tobacco"
+          ]
+        },
+        {
+          "name": "Devarapalle",
+          "soil": "Red",
+          "crops": [
+            "Sugarcane",
+            "Cashew",
+            "Paddy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr. B.R. Ambedkar Konaseema",
+      "mandals": [
+        {
+          "name": "Amalapuram",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Coconut",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Razole",
+          "soil": "Sandy",
+          "crops": [
+            "Coconut",
+            "Paddy",
+            "Cashew"
+          ]
+        },
+        {
+          "name": "Kothapeta",
+          "soil": "Alluvial",
+          "crops": [
+            "Banana",
+            "Paddy",
+            "Yam"
+          ]
+        },
+        {
+          "name": "Mummidivaram",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Coconut",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Ramachandrapuram",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Mandapeta",
+          "soil": "Clay Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Banana"
+          ]
+        },
+        {
+          "name": "P.Gannavaram",
+          "soil": "Alluvial",
+          "crops": [
+            "Coconut",
+            "Paddy",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Ravulapalem",
+          "soil": "Sandy Loam",
+          "crops": [
+            "Banana",
+            "Flowers",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Atreyapuram",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Banana",
+            "Flowers"
+          ]
+        },
+        {
+          "name": "Ainavilli",
+          "soil": "Loam",
+          "crops": [
+            "Coconut",
+            "Paddy",
+            "Vegetables"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eluru",
+      "mandals": [
+        {
+          "name": "Eluru",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Oil Palm"
+          ]
+        },
+        {
+          "name": "Denduluru",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Oil Palm",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Pedavegi",
+          "soil": "Red Sandy",
+          "crops": [
+            "Oil Palm",
+            "Cocoa",
+            "Coconut"
+          ]
+        },
+        {
+          "name": "Bhimadole",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Corn",
+            "Tobacco"
+          ]
+        },
+        {
+          "name": "Unguturu",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Aquaculture"
+          ]
+        },
+        {
+          "name": "Nuzvid",
+          "soil": "Red",
+          "crops": [
+            "Mango",
+            "Oil Palm",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Agiripalli",
+          "soil": "Red Loam",
+          "crops": [
+            "Mango",
+            "Cashew",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Jangareddygudem",
+          "soil": "Red Sandy",
+          "crops": [
+            "Tobacco",
+            "Oil Palm",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Chintalapudi",
+          "soil": "Red",
+          "crops": [
+            "Oil Palm",
+            "Paddy",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Polavaram",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Tobacco",
+            "Banana"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "West Godavari",
+      "mandals": [
+        {
+          "name": "Bhimavaram",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Coconut"
+          ]
+        },
+        {
+          "name": "Palakollu",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Coconut",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Narsapuram",
+          "soil": "Sandy",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Coconut"
+          ]
+        },
+        {
+          "name": "Tanuku",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Tadepalligudem",
+          "soil": "Clay Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Oil Palm"
+          ]
+        },
+        {
+          "name": "Akividu",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Undi",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Coconut"
+          ]
+        },
+        {
+          "name": "Iragavaram",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Penumantra",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Attili",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Banana",
+            "Sugarcane"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NTR",
+      "mandals": [
+        {
+          "name": "Vijayawada Rural",
+          "soil": "Black Cotton",
+          "crops": [
+            "Paddy",
+            "Pulses",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Gannavaram",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Nandigama",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Jaggayyapeta",
+          "soil": "Red",
+          "crops": [
+            "Cotton",
+            "Red Gram",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Mylavaram",
+          "soil": "Red Sandy",
+          "crops": [
+            "Mango",
+            "Cotton",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Tiruvuru",
+          "soil": "Red Loam",
+          "crops": [
+            "Mango",
+            "Cotton",
+            "Chilli"
+          ]
+        },
+        {
+          "name": "Vissannapeta",
+          "soil": "Red",
+          "crops": [
+            "Mango",
+            "Cashew",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Kanchikacherla",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Ibrahimpatnam",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Vegetables",
+            "Flowers"
+          ]
+        },
+        {
+          "name": "G.Konduru",
+          "soil": "Red",
+          "crops": [
+            "Mango",
+            "Vegetables",
+            "Cotton"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Krishna",
+      "mandals": [
+        {
+          "name": "Machilipatnam",
+          "soil": "Sandy",
+          "crops": [
+            "Paddy",
+            "Groundnut",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Gudivada",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Pulses",
+            "Sugarcane"
+          ]
+        },
+        {
+          "name": "Pedana",
+          "soil": "Loam",
+          "crops": [
+            "Paddy",
+            "Pulses",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Pamarru",
+          "soil": "Black",
+          "crops": [
+            "Paddy",
+            "Black Gram",
+            "Green Gram"
+          ]
+        },
+        {
+          "name": "Kaikalur",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Pulses"
+          ]
+        },
+        {
+          "name": "Movva",
+          "soil": "Black",
+          "crops": [
+            "Paddy",
+            "Pulses",
+            "Sugarcane"
+          ]
+        },
+        {
+          "name": "Avanigadda",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Banana",
+            "Turmeric"
+          ]
+        },
+        {
+          "name": "Nagayalanka",
+          "soil": "Sandy",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Koduru",
+          "soil": "Sandy Loam",
+          "crops": [
+            "Paddy",
+            "Cashew",
+            "Mango"
+          ]
+        },
+        {
+          "name": "Bantumilli",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Pulses"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palnadu",
+      "mandals": [
+        {
+          "name": "Narasaraopet",
+          "soil": "Black Cotton",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Chilakaluripet",
+          "soil": "Red",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Tobacco"
+          ]
+        },
+        {
+          "name": "Sattenapalle",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Red Gram"
+          ]
+        },
+        {
+          "name": "Vinukonda",
+          "soil": "Red Sandy",
+          "crops": [
+            "Cotton",
+            "Red Gram",
+            "Castor"
+          ]
+        },
+        {
+          "name": "Gurazala",
+          "soil": "Red",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Macherla",
+          "soil": "Red Loam",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Piduguralla",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Krosuru",
+          "soil": "Red",
+          "crops": [
+            "Chilli",
+            "Cotton",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Amaravathi",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Cotton",
+            "Chilli"
+          ]
+        },
+        {
+          "name": "Pedakurapadu",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Paddy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guntur",
+      "mandals": [
+        {
+          "name": "Guntur East",
+          "soil": "Black Cotton",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Tobacco"
+          ]
+        },
+        {
+          "name": "Guntur West",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Tenali",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Black Gram",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Mangalagiri",
+          "soil": "Black",
+          "crops": [
+            "Paddy",
+            "Turmeric",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Tadikonda",
+          "soil": "Red",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Tobacco"
+          ]
+        },
+        {
+          "name": "Prathipadu",
+          "soil": "Black Cotton",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Tobacco"
+          ]
+        },
+        {
+          "name": "Ponnur",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Black Gram",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Duggirala",
+          "soil": "Loam",
+          "crops": [
+            "Turmeric",
+            "Banana",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Kollipara",
+          "soil": "Alluvial",
+          "crops": [
+            "Turmeric",
+            "Maize",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Chebrolu",
+          "soil": "Black",
+          "crops": [
+            "Paddy",
+            "Maize",
+            "Cotton"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bapatla",
+      "mandals": [
+        {
+          "name": "Bapatla",
+          "soil": "Sandy",
+          "crops": [
+            "Paddy",
+            "Cashew",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Chirala",
+          "soil": "Sandy Loam",
+          "crops": [
+            "Cashew",
+            "Paddy",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Addanki",
+          "soil": "Red",
+          "crops": [
+            "Cotton",
+            "Tobacco",
+            "Gram"
+          ]
+        },
+        {
+          "name": "Parchur",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Tobacco",
+            "Chilli"
+          ]
+        },
+        {
+          "name": "Inkollu",
+          "soil": "Black Cotton",
+          "crops": [
+            "Cotton",
+            "Tobacco",
+            "Bengal Gram"
+          ]
+        },
+        {
+          "name": "Repalle",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Black Gram",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Vemuru",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Black Gram",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Nizampatnam",
+          "soil": "Sandy",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Cashew"
+          ]
+        },
+        {
+          "name": "Martur",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Tobacco",
+            "Chilli"
+          ]
+        },
+        {
+          "name": "Karamchedu",
+          "soil": "Black",
+          "crops": [
+            "Paddy",
+            "Tobacco",
+            "Bengal Gram"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prakasam",
+      "mandals": [
+        {
+          "name": "Ongole",
+          "soil": "Black Cotton",
+          "crops": [
+            "Tobacco",
+            "Bengal Gram",
+            "Cotton"
+          ]
+        },
+        {
+          "name": "Kandukur",
+          "soil": "Red Sandy",
+          "crops": [
+            "Tobacco",
+            "Groundnut",
+            "Pulse"
+          ]
+        },
+        {
+          "name": "Kanigiri",
+          "soil": "Red",
+          "crops": [
+            "Red Gram",
+            "Castor",
+            "Millets"
+          ]
+        },
+        {
+          "name": "Markapur",
+          "soil": "Red Loam",
+          "crops": [
+            "Slate",
+            "Millets",
+            "Red Gram"
+          ]
+        },
+        {
+          "name": "Giddalur",
+          "soil": "Red",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Red Gram"
+          ]
+        },
+        {
+          "name": "Podili",
+          "soil": "Sandy",
+          "crops": [
+            "Millets",
+            "Tobacco",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Darsi",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Tobacco",
+            "Red Gram"
+          ]
+        },
+        {
+          "name": "Singarayakonda",
+          "soil": "Red Sandy",
+          "crops": [
+            "Tobacco",
+            "Cashew",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Tangutur",
+          "soil": "Black",
+          "crops": [
+            "Tobacco",
+            "Bengal Gram",
+            "Chilli"
+          ]
+        },
+        {
+          "name": "Yerragondapalem",
+          "soil": "Rocky Red",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Millets"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sri Potti Sriramulu Nellore",
+      "mandals": [
+        {
+          "name": "Nellore",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Black Gram"
+          ]
+        },
+        {
+          "name": "Kavali",
+          "soil": "Red Sandy",
+          "crops": [
+            "Paddy",
+            "Tobacco",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Atmakur",
+          "soil": "Red",
+          "crops": [
+            "Paddy",
+            "Cotton",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Kovur",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Banana"
+          ]
+        },
+        {
+          "name": "Gudur",
+          "soil": "Red Sandy",
+          "crops": [
+            "Lemon",
+            "Paddy",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Sullurpeta",
+          "soil": "Sandy",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Venkatagiri",
+          "soil": "Red Loam",
+          "crops": [
+            "Lemon",
+            "Groundnut",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Rapur",
+          "soil": "Red",
+          "crops": [
+            "Lemon",
+            "Groundnut",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Naidupet",
+          "soil": "Red Sandy",
+          "crops": [
+            "Paddy",
+            "Lemon",
+            "Cashew"
+          ]
+        },
+        {
+          "name": "Udayagiri",
+          "soil": "Rocky Red",
+          "crops": [
+            "Millets",
+            "Paddy",
+            "Sunflower"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kurnool",
+      "mandals": [
+        {
+          "name": "Kurnool",
+          "soil": "Black Cotton",
+          "crops": [
+            "Cotton",
+            "Onion",
+            "Sunflower"
+          ]
+        },
+        {
+          "name": "Adoni",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Groundnut",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Yemmiganur",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Groundnut",
+            "Onion"
+          ]
+        },
+        {
+          "name": "Pattikonda",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Cotton",
+            "Tomato"
+          ]
+        },
+        {
+          "name": "Alur",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Korra",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Kodumur",
+          "soil": "Red",
+          "crops": [
+            "Cotton",
+            "Onion",
+            "Chilli"
+          ]
+        },
+        {
+          "name": "Mantralayam",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Paddy",
+            "Chilli"
+          ]
+        },
+        {
+          "name": "Nandavaram",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Paddy",
+            "Sunflower"
+          ]
+        },
+        {
+          "name": "Kosigi",
+          "soil": "Red Sandy",
+          "crops": [
+            "Groundnut",
+            "Cotton",
+            "Onion"
+          ]
+        },
+        {
+          "name": "Gonegandla",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Onion",
+            "Tomato"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nandyal",
+      "mandals": [
+        {
+          "name": "Nandyal",
+          "soil": "Black Cotton",
+          "crops": [
+            "Paddy",
+            "Maize",
+            "Chickpea"
+          ]
+        },
+        {
+          "name": "Allagadda",
+          "soil": "Black",
+          "crops": [
+            "Paddy",
+            "Cotton",
+            "Turmeric"
+          ]
+        },
+        {
+          "name": "Banaganapalle",
+          "soil": "Red Loam",
+          "crops": [
+            "Mango",
+            "Cotton",
+            "Corn"
+          ]
+        },
+        {
+          "name": "Dhone",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Cotton",
+            "Coriander"
+          ]
+        },
+        {
+          "name": "Nandikotkur",
+          "soil": "Black",
+          "crops": [
+            "Paddy",
+            "Maize",
+            "Cotton"
+          ]
+        },
+        {
+          "name": "Atmakur",
+          "soil": "Clay",
+          "crops": [
+            "Paddy",
+            "Maize",
+            "Sunflower"
+          ]
+        },
+        {
+          "name": "Srisailam",
+          "soil": "Forest Red",
+          "crops": [
+            "Millets",
+            "Vegetables",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Panyam",
+          "soil": "Black",
+          "crops": [
+            "Maize",
+            "Jowar",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Koilkuntla",
+          "soil": "Black",
+          "crops": [
+            "Bengal Gram",
+            "Sunflower",
+            "Cotton"
+          ]
+        },
+        {
+          "name": "Bethamcherla",
+          "soil": "Rocky Red",
+          "crops": [
+            "Groundnut",
+            "Cotton",
+            "Millets"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anantapur",
+      "mandals": [
+        {
+          "name": "Anantapur",
+          "soil": "Red Sandy",
+          "crops": [
+            "Groundnut",
+            "Pigeon Pea",
+            "Sunflower"
+          ]
+        },
+        {
+          "name": "Gooty",
+          "soil": "Red Black",
+          "crops": [
+            "Cotton",
+            "Groundnut",
+            "Jowar"
+          ]
+        },
+        {
+          "name": "Tadipatri",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Bengal Gram",
+            "Sunflower"
+          ]
+        },
+        {
+          "name": "Singanamala",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Paddy",
+            "Melon"
+          ]
+        },
+        {
+          "name": "Kalyandurg",
+          "soil": "Red Sandy",
+          "crops": [
+            "Groundnut",
+            "Millets",
+            "Pigeon Pea"
+          ]
+        },
+        {
+          "name": "Rayadurg",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Cotton",
+            "Millets"
+          ]
+        },
+        {
+          "name": "Uravakonda",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Chilli",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Raptadu",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Vegetables",
+            "Flowers"
+          ]
+        },
+        {
+          "name": "Atmakur",
+          "soil": "Red Loam",
+          "crops": [
+            "Groundnut",
+            "Maize",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Kudair",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Cotton",
+            "Millets"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sri Sathya Sai",
+      "mandals": [
+        {
+          "name": "Puttaparthi",
+          "soil": "Red Sandy",
+          "crops": [
+            "Groundnut",
+            "Maize",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Hindupur",
+          "soil": "Red Loam",
+          "crops": [
+            "Mulberry",
+            "Groundnut",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Penukonda",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Maize",
+            "Mango"
+          ]
+        },
+        {
+          "name": "Dharmavaram",
+          "soil": "Red Sandy",
+          "crops": [
+            "Groundnut",
+            "Cotton",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Kadiri",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Mango",
+            "Flowers"
+          ]
+        },
+        {
+          "name": "Madakasira",
+          "soil": "Red Sandy",
+          "crops": [
+            "Groundnut",
+            "Maize",
+            "Pigeon Pea"
+          ]
+        },
+        {
+          "name": "Bukkapatnam",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Paddy",
+            "Maize"
+          ]
+        },
+        {
+          "name": "Kothacheruvu",
+          "soil": "Red Loam",
+          "crops": [
+            "Groundnut",
+            "Tamarind",
+            "Mango"
+          ]
+        },
+        {
+          "name": "Gorantla",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Sunflower",
+            "Mulberry"
+          ]
+        },
+        {
+          "name": "Somandepalle",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Maize",
+            "Vegetables"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "YSR Kadapa",
+      "mandals": [
+        {
+          "name": "Kadapa",
+          "soil": "Red Loam",
+          "crops": [
+            "Groundnut",
+            "Cotton",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Pulivendula",
+          "soil": "Black",
+          "crops": [
+            "Banana",
+            "Groundnut",
+            "Cotton"
+          ]
+        },
+        {
+          "name": "Jammalamadugu",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Bengal Gram",
+            "Sunflower"
+          ]
+        },
+        {
+          "name": "Proddatur",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Paddy",
+            "Sunflower"
+          ]
+        },
+        {
+          "name": "Mydukur",
+          "soil": "Black",
+          "crops": [
+            "Paddy",
+            "Cotton",
+            "Chilli"
+          ]
+        },
+        {
+          "name": "Kamalapuram",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Cotton",
+            "Turmeric"
+          ]
+        },
+        {
+          "name": "Badvel",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Cotton",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Vempalli",
+          "soil": "Red Sandy",
+          "crops": [
+            "Banana",
+            "Papaya",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Muddanur",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Corriander",
+            "Sunflower"
+          ]
+        },
+        {
+          "name": "Yerraguntla",
+          "soil": "Black",
+          "crops": [
+            "Cotton",
+            "Bengal Gram",
+            "Sunflower"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Annamayya",
+      "mandals": [
+        {
+          "name": "Rayachoti",
+          "soil": "Red Sandy",
+          "crops": [
+            "Groundnut",
+            "Mango",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Madanapalle",
+          "soil": "Red Loam",
+          "crops": [
+            "Tomato",
+            "Groundnut",
+            "Mango"
+          ]
+        },
+        {
+          "name": "Rajampet",
+          "soil": "Sandy",
+          "crops": [
+            "Lemon",
+            "Mango",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Railway Koduru",
+          "soil": "Red",
+          "crops": [
+            "Banana",
+            "Mango",
+            "Papaya"
+          ]
+        },
+        {
+          "name": "Pileru",
+          "soil": "Red Sandy",
+          "crops": [
+            "Groundnut",
+            "Tomato",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Tamballapalle",
+          "soil": "Red",
+          "crops": [
+            "Tomato",
+            "Groundnut",
+            "Tamarind"
+          ]
+        },
+        {
+          "name": "Valmikipuram",
+          "soil": "Red",
+          "crops": [
+            "Tomato",
+            "Groundnut",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Nimmanapalle",
+          "soil": "Red Sandy",
+          "crops": [
+            "Tomato",
+            "Mango",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Gurramkonda",
+          "soil": "Red",
+          "crops": [
+            "Tomato",
+            "Groundnut",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Lakkireddipalli",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Mango",
+            "Sunflower"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tirupati",
+      "mandals": [
+        {
+          "name": "Tirupati Urban",
+          "soil": "Red",
+          "crops": [
+            "Groundnut",
+            "Paddy",
+            "Flowers"
+          ]
+        },
+        {
+          "name": "Srikalahasti",
+          "soil": "Alluvial",
+          "crops": [
+            "Paddy",
+            "Groundnut",
+            "Sugarcane"
+          ]
+        },
+        {
+          "name": "Gudur",
+          "soil": "Red Sandy",
+          "crops": [
+            "Lemon",
+            "Paddy",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Sullurpeta",
+          "soil": "Sandy",
+          "crops": [
+            "Paddy",
+            "Aquaculture",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Venkatagiri",
+          "soil": "Red Loam",
+          "crops": [
+            "Lemon",
+            "Groundnut",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "Naidupet",
+          "soil": "Red Sandy",
+          "crops": [
+            "Paddy",
+            "Lemon",
+            "Cashew"
+          ]
+        },
+        {
+          "name": "Chandragiri",
+          "soil": "Red",
+          "crops": [
+            "Paddy",
+            "Sugarcane",
+            "Mango"
+          ]
+        },
+        {
+          "name": "Puttur",
+          "soil": "Red Loam",
+          "crops": [
+            "Paddy",
+            "Mango",
+            "Vegetables"
+          ]
+        },
+        {
+          "name": "Nagari",
+          "soil": "Red",
+          "crops": [
+            "Paddy",
+            "Sugar Cane",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Satyavedu",
+          "soil": "Sandy",
+          "crops": [
+            "Paddy",
+            "Mango",
+            "Cashew"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chittoor",
+      "mandals": [
+        {
+          "name": "Chittoor",
+          "soil": "Red Loam",
+          "crops": [
+            "Mango",
+            "Sugarcane",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Palamaner",
+          "soil": "Red",
+          "crops": [
+            "Tomato",
+            "Mango",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Kuppam",
+          "soil": "Red Sandy",
+          "crops": [
+            "Flowers",
+            "Vegetables",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Punganur",
+          "soil": "Red",
+          "crops": [
+            "Tomato",
+            "Mango",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Nagari",
+          "soil": "Red",
+          "crops": [
+            "Sugarcane",
+            "Paddy",
+            "Mango"
+          ]
+        },
+        {
+          "name": "Karvetinagar",
+          "soil": "Red",
+          "crops": [
+            "Sugarcane",
+            "Paddy",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "Puthalapattu",
+          "soil": "Red",
+          "crops": [
+            "Sugarcane",
+            "Mango",
+            "Paddy"
+          ]
+        },
+        {
+          "name": "G.D.Nellore",
+          "soil": "Red Loam",
+          "crops": [
+            "Sugarcane",
+            "Mango",
+            "Groundnut"
+          ]
+        },
+        {
+          "name": "V.Kota",
+          "soil": "Red Sandy",
+          "crops": [
+            "Tomato",
+            "Vegetables",
+            "Flowers"
+          ]
+        },
+        {
+          "name": "Bangarupalem",
+          "soil": "Red",
+          "crops": [
+            "Mango",
+            "Sugarcane",
+            "Groundnut"
+          ]
+        }
+      ]
+    }
+  ]
+}

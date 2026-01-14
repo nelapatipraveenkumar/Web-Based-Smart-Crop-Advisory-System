@@ -1,0 +1,6 @@
+{
+  "error": {
+    "message": "Image must have at least 2 pixels in each dimension",
+    "type": "invalid_request_error"
+  }
+}

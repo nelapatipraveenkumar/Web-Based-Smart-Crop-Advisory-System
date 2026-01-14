@@ -1,0 +1,26 @@
+CREATE DATABASE IF NOT EXISTS smart_agri_db;
+USE smart_agri_db;
+
+CREATE TABLE IF NOT EXISTS advisory_logs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    location VARCHAR(255),
+    season VARCHAR(50),
+    soil_type VARCHAR(50),
+    recommended_crop VARCHAR(100),
+    fertilizer VARCHAR(255),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS feedback (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    message TEXT,
+    rating INT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+CREATE TABLE IF NOT EXISTS users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(255) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    email VARCHAR(255) UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

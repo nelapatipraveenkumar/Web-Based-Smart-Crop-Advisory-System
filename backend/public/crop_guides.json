@@ -1,0 +1,247 @@
+{
+    "Paddy": {
+        "duration_en": "120-150 Days",
+        "duration_te": "120-150 రోజులు",
+        "schedule": [
+            {
+                "days": "0-15",
+                "stage_en": "Nursery",
+                "stage_te": "నారుమడి",
+                "treatment_en": "Seed treatment with Carbendazim. Apply Pretilachlor.",
+                "treatment_te": "కార్బెండజిమ్‌తో విత్తన శుద్ధి. ప్రెటిలాక్లోర్ వేయాలి."
+            },
+            {
+                "days": "15-40",
+                "stage_en": "Tillering",
+                "stage_te": "పిలకలు",
+                "treatment_en": "Apply Cartap Hydrochloride for Stem Borer.",
+                "treatment_te": "కాండం తొలుచు పురుగుకు కార్టాప్ హైడ్రోక్లోరైడ్ వాడండి."
+            },
+            {
+                "days": "60-90",
+                "stage_en": "Reproductive",
+                "stage_te": "పొట్ట దశ",
+                "treatment_en": "Spray Hexaconazole for Blight. Monitor BPH.",
+                "treatment_te": "అగ్గి తెగులుకు హెక్సాకోనజోల్ పిచికారీ చేయాలి."
+            }
+        ]
+    },
+    "Cotton": {
+        "duration_en": "150-180 Days",
+        "duration_te": "150-180 రోజులు",
+        "schedule": [
+            {
+                "days": "15-40",
+                "stage_en": "Vegetative",
+                "stage_te": "శాఖీయ దశ",
+                "treatment_en": "Imidacloprid for sucking pests.",
+                "treatment_te": "రసం పీల్చే పురుగులకు ఇమిడాక్లోప్రిడ్ వాడండి."
+            },
+            {
+                "days": "60-90",
+                "stage_en": "Boll Formation",
+                "stage_te": "కాయ దశ",
+                "treatment_en": "Acephate for Bollworm. Magnesium Sulfate for redness.",
+                "treatment_te": "కాయతొలుచు పురుగుకు ఎసిఫేట్. ఎరుపు రాకుండా మెగ్నీషియం సల్ఫేట్."
+            }
+        ]
+    },
+    "Chilli": {
+        "duration_en": "180-210 Days",
+        "duration_te": "180-210 రోజులు",
+        "schedule": [
+            {
+                "days": "15-45",
+                "stage_en": "Growth",
+                "stage_te": "పెరుగుదల",
+                "treatment_en": "Fipronil for Thrips. 19:19:19 spray.",
+                "treatment_te": "తామర పురుగులకు ఫిప్రోనిల్. 19:19:19 పిచికారీ."
+            },
+            {
+                "days": "60-100",
+                "stage_en": "Flowering",
+                "stage_te": "పూత దశ",
+                "treatment_en": "Dimethoate for Mites. Boron for fruit set.",
+                "treatment_te": "నల్లికి డైమిథోయేట్. కాయల కోసం బోరాన్."
+            }
+        ]
+    },
+    "Groundnut": {
+        "duration_en": "100-110 Days",
+        "duration_te": "100-110 రోజులు",
+        "schedule": [
+            {
+                "days": "20-30",
+                "stage_en": "Flowering",
+                "stage_te": "పూత దశ",
+                "treatment_en": "Gypsum application (500kg).",
+                "treatment_te": "జిప్సం (500 కిలోలు) వేయాలి."
+            },
+            {
+                "days": "40-60",
+                "stage_en": "Pegging",
+                "stage_te": "ఊడ దిగుట",
+                "treatment_en": "Control Leaf Miner with Chlorpyriphos.",
+                "treatment_te": "ఆకు ముడతకు క్లోర్‌పైరిఫాస్ వాడండి."
+            }
+        ]
+    },
+    "Maize": {
+        "duration_en": "90-100 Days",
+        "duration_te": "90-100 రోజులు",
+        "schedule": [
+            {
+                "days": "10-20",
+                "stage_en": "Seedling",
+                "stage_te": "మొలక దశ",
+                "treatment_en": "Emamectin for Fall Armyworm.",
+                "treatment_te": "కత్తెర పురుగుకు ఎమామెక్టిన్ బెంజోయేట్."
+            },
+            {
+                "days": "45-55",
+                "stage_en": "Tasseling",
+                "stage_te": "పూత రావడం",
+                "treatment_en": "Urea top dressing.",
+                "treatment_te": "యూరియా పైపాటుగా వేయాలి."
+            }
+        ]
+    },
+    "Sugarcane": {
+        "duration_en": "10-12 Months",
+        "duration_te": "10-12 నెలలు",
+        "schedule": [
+            {
+                "days": "30-60",
+                "stage_en": "Tillering",
+                "stage_te": "పిలకలు",
+                "treatment_en": "Chlorpyriphos for Early Shoot Borer.",
+                "treatment_te": "కాండం తొలుచు పురుగుకు క్లోర్‌పైరిఫాస్."
+            },
+            {
+                "days": "90-120",
+                "stage_en": "Grand Growth",
+                "stage_te": "పెరుగుదల",
+                "treatment_en": "Urea + Potash application.",
+                "treatment_te": "యూరియా మరియు పొటాష్ వేయాలి."
+            }
+        ]
+    },
+    "Mango": {
+        "duration_en": "Perennial (Harvest: Apr-Jun)",
+        "duration_te": "పల్లార్ (వార్షికం)",
+        "schedule": [
+            {
+                "days": "Jan",
+                "stage_en": "Flowering",
+                "stage_te": "పూత దశ",
+                "treatment_en": "Imidacloprid for Hoppers. Sulphur for Mildew.",
+                "treatment_te": "తేనె మంచు పురుగుకు ఇమిడాక్లోప్రిడ్. బూజు తెగులుకు గంధకం."
+            },
+            {
+                "days": "Mar",
+                "stage_en": "Fruiting",
+                "stage_te": "కాయ దశ",
+                "treatment_en": "Planofix to prevent fruit drop.",
+                "treatment_te": "పిందె రాలకుండా ప్లానోఫిక్స్."
+            }
+        ]
+    },
+    "Turmeric": {
+        "duration_en": "9 Months",
+        "duration_te": "9 నెలలు",
+        "schedule": [
+            {
+                "days": "45-60",
+                "stage_en": "Rhizome",
+                "stage_te": "దుంప దశ",
+                "treatment_en": "Ridomil for Rhizome Rot.",
+                "treatment_te": "దుంప కుళ్లుకు రిడోమిల్ వాడండి."
+            }
+        ]
+    },
+    "Banana": {
+        "duration_en": "11-12 Months",
+        "duration_te": "11-12 నెలలు",
+        "schedule": [
+            {
+                "days": "3-4 Mon",
+                "stage_en": "Vegetative",
+                "stage_te": "పెరుగుదల",
+                "treatment_en": "Inject Monocrotophos for Stem Weevil.",
+                "treatment_te": "కాండం ముక్కు పురుగుకు మోనోక్రోటోఫాస్."
+            }
+        ]
+    },
+    "Tomato": {
+        "duration_en": "110-140 Days",
+        "duration_te": "110-140 రోజులు",
+        "schedule": [
+            {
+                "days": "30-45",
+                "stage_en": "Vegetative",
+                "stage_te": "పెరుగుదల",
+                "treatment_en": "Mancozeb for Blight.",
+                "treatment_te": "మచ్చ తెగులుకు మాంకోజెబ్."
+            }
+        ]
+    },
+    "Coconut": {
+        "duration_en": "Perennial",
+        "duration_te": "వార్షికం",
+        "schedule": [
+            {
+                "days": "All Year",
+                "stage_en": "Maintenance",
+                "stage_te": "పోషణ",
+                "treatment_en": "Root feeding with Monocrotophos for Black Headed Caterpillar.",
+                "treatment_te": "నల్ల తల గొంగళి పురుగుకు వేరు ద్వారా మందు."
+            }
+        ]
+    },
+    "Tobacco": {
+        "duration_en": "100-120 Days",
+        "duration_te": "100-120 రోజులు",
+        "schedule": [
+            {
+                "days": "45-60",
+                "stage_en": "Leaf Growth",
+                "stage_te": "ఆకు దశ",
+                "treatment_en": "Imidacloprid for Aphids.",
+                "treatment_te": "పేను బంకకు ఇమిడాక్లోప్రిడ్."
+            }
+        ]
+    },
+    "Pulses (Black/Green Gram)": {
+        "duration_en": "70-90 Days",
+        "duration_te": "70-90 రోజులు",
+        "schedule": [
+            {
+                "days": "20-30",
+                "stage_en": "Flowering",
+                "stage_te": "పూత దశ",
+                "treatment_en": "Spray Dichlorvos for Leaf Webber.",
+                "treatment_te": "ఆకు ముడతకు డైక్లోరోవాస్."
+            },
+            {
+                "days": "45-55",
+                "stage_en": "Pod",
+                "stage_te": "కాయ దశ",
+                "treatment_en": "Neem Oil for Maruca.",
+                "treatment_te": "మారుకా పురుగుకు వేప నూనె."
+            }
+        ]
+    },
+    "Cashew": {
+        "duration_en": "Seasonal (Feb-May)",
+        "duration_te": "సీ సీజన్ (ఫిబ్రవరి-మే)",
+        "schedule": [
+            {
+                "days": "Nov-Jan",
+                "stage_en": "Flushing",
+                "stage_te": "చిగురు దశ",
+                "treatment_en": "Spray Lambda Cyhalothrin for Tea Mosquito Bug.",
+                "treatment_te": "టీ దోమకు లాంబ్డా సైహలోథ్రిన్."
+            }
+        ]
+    }
+}

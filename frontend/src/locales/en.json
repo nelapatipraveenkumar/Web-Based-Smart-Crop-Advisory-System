@@ -1,0 +1,32 @@
+{
+  "app": {
+    "title": "Smart Agriculture Advisory System",
+    "checkStatus": "Check System Status",
+    "checking": "Checking...",
+    "systemStatus": "System Status:",
+    "offlineError": "System is offline or unreachable"
+  },
+  "advisory": {
+    "title": "Get Crop Advisory",
+    "location": "Location:",
+    "locationPlaceholder": "e.g. Hyderabad",
+    "season": "Season:",
+    "soilType": "Soil Type:",
+    "submit": "Get Recommendation",
+    "analyzing": "Analyzing...",
+    "error": "Failed to get advisory. Try again.",
+    "resultKey": "Recommendation",
+    "crop": "Recommended Crop:",
+    "fertilizer": "Fertilizer:",
+    "seasons": {
+      "Winter": "Winter",
+      "Summer": "Summer",
+      "Rainy": "Rainy"
+    },
+    "soils": {
+      "Clay": "Clay",
+      "Loam": "Loam",
+      "Sandy": "Sandy"
+    }
+  }
+}
